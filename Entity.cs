@@ -4,10 +4,16 @@ namespace MineVille
 {
     public class Entity
     {
-       Raylib_cs.Texture2D texture;
+        private Raylib_cs.Texture2D texture;
+        private Raylib_cs.Vector2 position;
+        private Color color;
        
-        private Vector2 position;
-            private Color color;
+        // public Entity(Raylib_cs.Texture2D _texture, Raylib_cs.Vector2 _position, Color _color)
+        // {
+        //     texture = _texture;
+        //     position = _position;
+        //     color = _color;
+        // }
 
        public void DrawEntity(Texture2D _texture)
        {
@@ -15,7 +21,6 @@ namespace MineVille
 
 
        }
-
 
 
     }
