@@ -20,3 +20,11 @@ C:\Users\Douwe\OneDrive - ROC Alfa-college\Game Dev\Jaar 2\P3 Framework\MineVill
 C:\Users\Douwe\OneDrive - ROC Alfa-college\Game Dev\Jaar 2\P3 Framework\MineVille\obj\Debug\net7.0\MineVille.pdb
 C:\Users\Douwe\OneDrive - ROC Alfa-college\Game Dev\Jaar 2\P3 Framework\MineVille\obj\Debug\net7.0\MineVille.genruntimeconfig.cache
 C:\Users\Douwe\OneDrive - ROC Alfa-college\Game Dev\Jaar 2\P3 Framework\MineVille\obj\Debug\net7.0\ref\MineVille.dll
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.csproj.AssemblyReference.cache
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.GeneratedMSBuildEditorConfig.editorconfig
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.AssemblyInfoInputs.cache
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.AssemblyInfo.cs
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.csproj.CoreCompileInputs.cache
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.dll
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\refint\MineVille.dll
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.pdb

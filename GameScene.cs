@@ -25,7 +25,7 @@ public class GameScene{
             // Raylib.DrawRectangle(100, 50, 200, 50, Color.DarkGray);
             // Raylib.DrawRectangle(100, 250, 200, 50, Color.DarkGray);
 
-            DrawText("Coins: " + player.Coins, 20, 20, 30, GOLD);
+            Raylib.DrawText("Coins: " + player.Coins, 20, 20, 30, Color.Gold);
 
             // End drawing
             Raylib.EndDrawing();

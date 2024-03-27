@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Douwe\\OneDrive - ROC Alfa-college\\Game Dev\\Jaar 2\\P3 Framework\\MineVille\\MineVille.csproj": {}
+    "D:\\TMP\\Users\\Douwe\\GitHub\\MineVille\\MineVille.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Douwe\\OneDrive - ROC Alfa-college\\Game Dev\\Jaar 2\\P3 Framework\\MineVille\\MineVille.csproj": {
+    "D:\\TMP\\Users\\Douwe\\GitHub\\MineVille\\MineVille.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Douwe\\OneDrive - ROC Alfa-college\\Game Dev\\Jaar 2\\P3 Framework\\MineVille\\MineVille.csproj",
+        "projectUniqueName": "D:\\TMP\\Users\\Douwe\\GitHub\\MineVille\\MineVille.csproj",
         "projectName": "MineVille",
-        "projectPath": "C:\\Users\\Douwe\\OneDrive - ROC Alfa-college\\Game Dev\\Jaar 2\\P3 Framework\\MineVille\\MineVille.csproj",
+        "projectPath": "D:\\TMP\\Users\\Douwe\\GitHub\\MineVille\\MineVille.csproj",
         "packagesPath": "C:\\Users\\Douwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Douwe\\OneDrive - ROC Alfa-college\\Game Dev\\Jaar 2\\P3 Framework\\MineVille\\obj\\",
+        "outputPath": "D:\\TMP\\Users\\Douwe\\GitHub\\MineVille\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Douwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
