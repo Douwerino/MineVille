@@ -20,8 +20,8 @@ public class GameScene{
 
             // Draw something (e.g., a rectangle) (x pos, y pos, x scl, y scl)
             Raylib.DrawRectangle(100, 100, 200, 150, Color.Gray);
-            Raylib.DrawRectangle(100, 50, 200, 50, Color.DarkGray);
-            Raylib.DrawRectangle(100, 250, 200, 50, Color.DarkGray);
+            // Raylib.DrawRectangle(100, 50, 200, 50, Color.DarkGray);
+            // Raylib.DrawRectangle(100, 250, 200, 50, Color.DarkGray);
 
 
             // End drawing
