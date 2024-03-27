@@ -7,7 +7,9 @@ public class GameScene{
     static void Main(string [] args)
     {
         // Initialize Raylib
-        Raylib.InitWindow(1280, 720, "Raylib Window");
+        Raylib.InitWindow(1280, 720, "Mine Ville");
+
+        Player player = new Player();
 
         // Main game loop
         while (!Raylib.WindowShouldClose())
@@ -23,6 +25,7 @@ public class GameScene{
             // Raylib.DrawRectangle(100, 50, 200, 50, Color.DarkGray);
             // Raylib.DrawRectangle(100, 250, 200, 50, Color.DarkGray);
 
+            DrawText("Coins: " + player.Coins, 20, 20, 30, GOLD);
 
             // End drawing
             Raylib.EndDrawing();

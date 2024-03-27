@@ -15,12 +15,13 @@ namespace MineVille
         //     color = _color;
         // }
 
-       public void DrawEntity(Texture2D _texture)
-       {
-        Raylib.DrawTexture(texture, (int) position.x(), (int) position.y(), color);
+    public void drawPlayer(Texture texture)
+    {
+        DrawTexturePro(texture, new Raylib().Rectangle(0, 0,texture.width(), texture.height()),
+            new Raylib().Rectangle(playerX, playerY, texture.width() * 2, texture.height() * 2),
+            new Raylib.Vector2(0, 0), 0, Raylib.WHITE);
+    }
 
-
-       }
 
 
     }
