@@ -28,3 +28,17 @@ D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.csproj.CoreCompil
 D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.dll
 D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\refint\MineVille.dll
 D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.pdb
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\MineVille.exe
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\MineVille.deps.json
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\MineVille.runtimeconfig.json
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\MineVille.dll
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\MineVille.pdb
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\Raylib-cs.dll
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\runtimes\linux-x64\native\libraylib.so
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\runtimes\osx-arm64\native\libraylib.dylib
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\runtimes\osx-x64\native\libraylib.dylib
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\runtimes\win-x64\native\raylib.dll
+D:\TMP\Users\Douwe\GitHub\MineVille\bin\Debug\net7.0\runtimes\win-x86\native\raylib.dll
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.csproj.CopyComplete
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\MineVille.genruntimeconfig.cache
+D:\TMP\Users\Douwe\GitHub\MineVille\obj\Debug\net7.0\ref\MineVille.dll
