@@ -1,0 +1,2 @@
+Collision:
+Eerst de properties bepalen van de muur: Collision, Positie, afmeting. Daarna pas tekenen

@@ -1,0 +1,1 @@
+//Interactible object. Sell ores for money
