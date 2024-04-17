@@ -7,8 +7,8 @@ namespace MineVille
     {
         public Grid()
         {
-            string[] cells;
-            
+            //string[] cells;
+
         }
     }
 
