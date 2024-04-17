@@ -1,3 +1,15 @@
-//Grid system for cave, ores to mine and collision
-using MineVille;
+using System.Numerics;
+using Raylib_cs;
 
+namespace MineVille
+{
+    public class Grid
+    {
+        public Grid()
+        {
+            string[] cells;
+            
+        }
+    }
+
+}

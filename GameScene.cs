@@ -4,6 +4,7 @@ using MineVille;
 
 public class GameScene{
 
+
     static void Main(string [] args)
     {
         // Initialize Raylib
@@ -21,11 +22,12 @@ public class GameScene{
             Raylib.ClearBackground(Color.DarkGreen);
 
             // Drawing of the mine (x pos, y pos, x scl, y scl)
-            Raylib.DrawRectangle(0, 100, 1280, 150, Color.Gray); //top ground
-            Raylib.DrawRectangle(0, 0, 1280, 100, Color.DarkGray);
-            Raylib.DrawRectangle(0, 100, 150, 175, Color.DarkGray);
-            Raylib.DrawRectangle(250, 175, 500, 100, Color.DarkGray);
+            //Raylib.DrawRectangle(0, 100, 1280, 150, Color.Gray); //top ground
+            //Raylib.DrawRectangle(0, 0, 1280, 100, Color.DarkGray);
+            //Raylib.DrawRectangle(0, 100, 150, 175, Color.DarkGray);
+            //Raylib.DrawRectangle(250, 175, 500, 100, Color.DarkGray);
 
+            Raylib.DrawGrid(10, 10.0f);
 
             //Raylib.DrawText("Coins: " + player.Coins, 20, 20, 30, Color.Gold);
 
@@ -35,12 +37,7 @@ public class GameScene{
 
         // Close the window when the loop exits
         Raylib.CloseWindow();
-    
-        
-
-
     }
-
 
 
 }
